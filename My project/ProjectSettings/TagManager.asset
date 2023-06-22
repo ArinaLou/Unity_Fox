@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cherry
+  - Gem
+  - Enemy
+  - Collection
+  - DeadLine
+  - Heart
+  - Boss
+  - Box
+  - Key
+  - Ground
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgroud
+    uniqueID: 3131572591
+    locked: 0
+  - name: Environment
+    uniqueID: 2459878791
+    locked: 0
+  - name: Player
+    uniqueID: 2823412811
+    locked: 0
+  - name: Frontgroud
+    uniqueID: 3608034575
+    locked: 0
+  - name: Ground
+    uniqueID: 865096895
+    locked: 0
